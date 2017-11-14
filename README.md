@@ -21,7 +21,7 @@ In main HW rar file there are seperate four folders for each algorithm containin
         Run ParticleFilterMain.m
 
 5. DataSet (Sensors Data)
-        DATANEW.xslx
+        DATANEW.xlsx
 
 ## Explanation of the Results
 
